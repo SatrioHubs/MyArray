@@ -16,7 +16,7 @@ public class ArrayNilai25 {
            } else{
             System.out.println("Mahasiswa ke-"+i+" Tidak Lulus");
            }
-            
+            input.close();
         }
     }
 }
